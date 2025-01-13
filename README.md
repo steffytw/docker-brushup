@@ -10,6 +10,3 @@ Docker Hub: A registry for Docker images.
 Volumes: Mechanism to persist data outside containers.
 Networking: Connects containers to each other or the internet.
 
-
-
-# docker-brushup
